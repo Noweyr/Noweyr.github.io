@@ -95,10 +95,11 @@ li {
 }
 
 .grid {
+    height: 0.25rem;
     position: relative;
     display: block;
     text-align: center;
-    margin: -0.875rem;
+    margin: 0;
 }
 
 #game-window {
