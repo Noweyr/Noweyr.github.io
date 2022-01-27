@@ -47,7 +47,7 @@ html {
 }
 
 #welcome-container, #button-container {
-    height: 8.5rem;
+    height: 8rem;
 }
 
 #welcome {
@@ -59,8 +59,8 @@ html {
 body {
     margin: 0;
     text-align: center;
-    overflow: hidden;
     background-color: #e2e2e2;
+
 }
 
 main {
@@ -108,7 +108,7 @@ li {
     width: 75rem;
     height: 50rem;
     position: absolute;
-    top: 8.5rem;
+    top: 7rem;
     left: 50%;
     margin-left: -37.5rem;
     z-index: 2;
