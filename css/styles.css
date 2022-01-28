@@ -84,8 +84,8 @@ li {
 }
 
 .cell {
-    width: 0.25rem;
-    height: 0.25rem;
+    width: 0.3125rem;
+    height: 0.3125rem;
     padding: 0;
     background-color: gray;
     display: inline-block;
@@ -95,7 +95,7 @@ li {
 }
 
 .grid {
-    height: 0.25rem;
+    height: 0.3125rem;
     position: relative;
     display: block;
     text-align: center;
